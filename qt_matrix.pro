@@ -3,10 +3,12 @@
 ######################################################################
 
 TEMPLATE = app
-TARGET = 
-DEPENDPATH += .
-INCLUDEPATH += .
+TARGET = matrix
 
-# Input
-HEADERS += matrix_character.h
-SOURCES += main.cpp matrix_character.cpp
+#include dir
+DEPENDPATH += ./src
+INCLUDEPATH += src
+INCLUDEPATH += ./
+
+HEADERS += src/matrix_character.h
+SOURCES += src/main.cpp src/matrix_character.cpp
