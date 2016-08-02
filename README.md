@@ -9,7 +9,7 @@ it's writed by qt,a demo test
 下面是运行的截图    
 ###there is a picture:   
      
-![run status picture](https://raw.githubusercontent.com/prownd/chinese_character_rain/master/images/runImage.jpeg)  
+![run status picture](https://raw.githubusercontent.com/prownd/chinese_character_rain/master/images/runImage.jpeg "matrix run picture")  
     
       
 
