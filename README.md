@@ -1,4 +1,4 @@
-# qt_matrix_example    
+# matrix  wirte with qt 
 The chinese character ,drop down like rain     
 show that  like in the movie matrix     
 it's writed by qt,a demo test      
