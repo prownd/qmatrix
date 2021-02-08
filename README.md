@@ -5,8 +5,9 @@ it's writed by qt,a demo test
 类似于黑客帝国中的文字雨， 不过是中文的，比英文更漂亮    
 用qt来编写的，适配的qt版本是4.x, 5.x    
       
-qmake	   # in qt4
-qmake-qt5  # in qt5
+qmake	         #in qt4  
+qmake-qt5      #in qt5  
+
 make
      
 下面是运行的截图    
