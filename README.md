@@ -1,14 +1,12 @@
-# matrix  wirte with qt 
+# Introduction qmatrix 
 
-The chinese character ,drop down like rain     
-show that  like in the movie matrix     
-it's writed by qt,a demo test   
+It's similar to the text rain in The Matrix, but it displays Chinese characters beautifully. It's written using Qt.
 
-类似于黑客帝国中的文字雨， 不过是中文的，比英文更漂亮    
-用qt来编写的，适配的qt版本是4.x, 5.x    
 
-## build
 
+## Build
+
+```bash
 #in qt4      
 qmake	            
 
@@ -16,13 +14,16 @@ qmake
 qmake-qt5          
 
 make
-  
-## screen picture
-下面是运行的截图    
+```
 
-![run status picture](https://raw.githubusercontent.com/prownd/chinese_character_rain/master/images/runImage.jpeg "matrix run picture")  
+
+
+## Screen picture
+**The runing status screenshot is as follows:**   
+
+[status screenshot](https://raw.githubusercontent.com/prownd/chinese_character_rain/master/images/runImage.jpeg "qmatrix running screenshot")  
     
       
-      
-# contact me
+
+# Contact me
 email : <545751287@qq.com>
