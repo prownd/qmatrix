@@ -18,7 +18,7 @@ make
 
 
 
-## Screen picture
+## Screenshot
 **The runing status screenshot is as follows:**   
 
 [status screenshot](https://raw.githubusercontent.com/prownd/chinese_character_rain/master/images/runImage.jpeg "qmatrix running screenshot")  
